@@ -1,4 +1,4 @@
-### Helm Giropops Senhas
+# Descomplicando o Helm
 
 Repositorio criado a partir do workshop [Descomplicando o Helm](https://www.linuxtips.io/course/descomplicando-helm) da [Linux Tips](https://www.linuxtips.io/).
 
